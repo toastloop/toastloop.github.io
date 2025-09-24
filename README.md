@@ -10,3 +10,5 @@ I'm a 34 year old Computer Science student currently attending The University of
 - [Mastadon](phpc.social/@toastloop)
 
 ## Contact
+
+- matt [at] toastloop [dot] com
